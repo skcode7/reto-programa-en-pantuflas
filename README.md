@@ -37,6 +37,23 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 04/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Entrega de la primera fase del proyecto de compras (C#-MSSQL-DB2) #coin
+
+**Próximos hitos**
+- Revisar rutina de afectación de inventario #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Cumplir plan de aprendizaje #soyDeveloper
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
 *none* ☹️😐😀
