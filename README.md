@@ -54,6 +54,22 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 06/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Entrega de SysTec (C#-MSSQL) #encdia
+- Inicio de curso GX17 #soyDeveloper
+
+**Próximos hitos**
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
 *none* ☹️😐😀
