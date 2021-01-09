@@ -87,6 +87,22 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 07/01/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+- La empresa empieza el proceso de liquidación #coin
+
+**Próximos hitos**
+- Levantar ambientes de facturación en el nuevo server #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
-*none* ☹️😐😀
+*none* 😐😀☹️
