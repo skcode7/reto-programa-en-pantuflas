@@ -119,6 +119,23 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 19/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+- Presentación módulo de Conciliación Bancaria, salieron muchos ajustes #coin
+- No puedo codificar las tildes al crear un XML #coin
+
+**Próximos hitos**
+- Levantar ambientes de facturación en el nuevo server #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
 *none* 😐😀☹️
