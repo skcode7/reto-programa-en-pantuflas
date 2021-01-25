@@ -136,6 +136,39 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 14/01/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+- Reinstalando Windows #kode
+- Mucho código pero poco relevante #coin
+
+**Próximos hitos**
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
+**Fecha**: 25/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Primeras 2h de soporte como freelance #encdia
+
+**Próximos hitos**
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
 *none* 😐😀☹️
