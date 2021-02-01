@@ -169,6 +169,38 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 28/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Instalado wsl2 y debian para empezar con Docker en local #kode
+
+**Próximos hitos**
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
+**Fecha**: 29/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Listo el ambiente de facturación electrónica #encdia
+
+**Próximos hitos**
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
 *none* 😐😀☹️
