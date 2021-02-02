@@ -201,6 +201,22 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 02/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Primera Factura MIA enviada al cliente #encdia
+
+**Próximos hitos**
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
 *none* 😐😀☹️
