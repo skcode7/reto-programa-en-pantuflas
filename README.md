@@ -223,7 +223,7 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 **Hitos conseguidos**:
 - Iniciar un nuevo proyecto de nómina #coin
-- Instalación de WSL :0 #kode
+- Configuración de WSL2 en VS Code para desarrollar con NodeJS (que moderno me siento)  #kode
 
 **Próximos hitos**
 - Configurar respaldos de MSSQL #encdia
