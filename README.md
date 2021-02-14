@@ -250,6 +250,39 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 12/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Primer articulo en el blog de Daniel Primo #kode
+
+**Próximos hitos**
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
+**Fecha**: 14/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Instalación y configuración de Zammad (help desk) #encdia
+
+**Próximos hitos**
+- Aprender a fondo el uso y configuración de Zammad #encdia
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
 ## **Badges**
 
 *none* 😐😀☹️
