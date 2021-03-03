@@ -283,6 +283,72 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
+**Fecha**: 18/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Inicio de Curso PHP sobre Docker en WSL2 (que moderno) #kode
+
+**Próximos hitos**
+- Aprender a fondo el uso y configuración de Zammad #encdia
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram y gestión de feeds #metacast
+
+---
+
+**Fecha**: 27/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Jugueteando con contenedores y levantando Tiny Tiny RSS para gestión de podcasts #metacast
+
+**Próximos hitos**
+- Aprender a fondo el uso y configuración de Zammad #encdia
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Cerrar proyectos pendientes #coin
+- Completar portafolio de productos #encdia
+- Bot telegram #metacast
+
+---
+
+**Fecha**: 01/03/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Terminado el Curso de Introducción a Docker #kode
+
+**Próximos hitos**
+- Aprender a fondo el uso y configuración de Zammad #encdia
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Completar portafolio de productos #encdia
+- Bot telegram #metacast
+
+---
+
+**Fecha**: 02/03/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Inicio de Curso Vue3+TypeScript #kode
+
+**Próximos hitos**
+- Aprender a fondo el uso y configuración de Zammad #encdia
+- Configurar respaldos de MSSQL #encdia
+- Completar tutorial Gatsby #kode
+- Completar portafolio de productos #encdia
+- Bot telegram #metacast
+
+---
+
 ## **Badges**
 
 *none* 😐😀☹️
